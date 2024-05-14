@@ -1,0 +1,5 @@
+com\emergentes\controller\MainServlet.class
+com\emergentes\model\Blog.class
+com\emergentes\dao\BlogDAOimpl.class
+com\emergentes\utiles\ConexionDB.class
+com\emergentes\dao\BlogDAO.class

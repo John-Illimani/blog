@@ -1,0 +1,53 @@
+@options
+@packages
+-classpath
+'C:/Users/illim/.m2/repository/javax/javaee-web-api/7.0/javaee-web-api-7.0.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/illim/Documents/NetBeansProjects/blog/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/illim/Documents/NetBeansProjects/blog/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'blog 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/illim/Documents/NetBeansProjects/blog/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'blog 1.0-SNAPSHOT API'
+com.emergentes.controller
+com.emergentes.dao
+com.emergentes.model
+com.emergentes.utiles
+C:\Users\illim\.m2\repository\javax\javaee-web-api\7.0\javaee-web-api-7.0.jar = 1709668674898
+C:\Users\illim\Documents\NetBeansProjects\blog\src\main\java = 1715700875346
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\allclasses-index.html = 1715703966998
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\allclasses.html = 1715703967158
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\allpackages-index.html = 1715703967048
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\constant-values.html = 1715703966272
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\deprecated-list.html = 1715703967149
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\element-list = 1715703966048
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\help-doc.html = 1715703967264
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\index-all.html = 1715703966955
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\index.html = 1715703967170
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\member-search-index.js = 1715703966935
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\member-search-index.zip = 1715703966939
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\overview-summary.html = 1715703967201
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\overview-tree.html = 1715703966514
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\package-search-index.js = 1715703966796
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\package-search-index.zip = 1715703966802
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\script.js = 1715703967293
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\search.js = 1715703967305
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\serialized-form.html = 1715703966287
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\stylesheet.css = 1715703967287
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\type-search-index.js = 1715703966805
+C:\Users\illim\Documents\NetBeansProjects\blog\target\site\apidocs\type-search-index.zip = 1715703966820

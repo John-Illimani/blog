@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.emergentes.model","l":"Blog"},{"p":"com.emergentes.dao","l":"BlogDAO"},{"p":"com.emergentes.dao","l":"BlogDAOimpl"},{"p":"com.emergentes.utiles","l":"ConexionDB"},{"p":"com.emergentes.controller","l":"MainServlet"}]
